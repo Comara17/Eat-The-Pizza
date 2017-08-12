@@ -1,0 +1,17 @@
+section {
+    margin: 20px;
+}
+
+body {
+    background-image: url(../images/background.png);
+}
+
+.panel {
+    margin: 18px;
+    font-family: 'Open Sans Condensed', sans-serif; 
+    font-size: 18px;
+}
+
+h2.panel-title {
+    font-size: 24px;
+}
